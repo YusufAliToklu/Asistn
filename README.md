@@ -33,3 +33,7 @@ pip install -r Desktop/requirements.txt
 
 pip install -r /requirements.txt
 
+requirements.txt dosyasını masaüstüne çıkarın
+
+
+
